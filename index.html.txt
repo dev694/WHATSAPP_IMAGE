@@ -9,7 +9,7 @@
   <!-- Open Graph tags (controls WhatsApp preview) -->
   <meta property="og:title" content="Tap to Chat on WhatsApp" />
   <meta property="og:description" content="Click this card to chat with us directly on WhatsApp." />
-  <meta property="og:image" content="https://sprightly-mooncake-2c56ad.netlify.app" />
+  <meta property="og:image" content="https://dev694.github.io/WHATSAPP_IMAGE/" />
   <meta property="og:url" content="https://example.com/" />
   <meta name="twitter:card" content="summary_large_image" />
 
@@ -25,3 +25,4 @@
   </p>
 </body>
 </html>
+
